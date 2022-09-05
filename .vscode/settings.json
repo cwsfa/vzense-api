@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./DCAM550/API",
+        "./DCAM560/API",
+        "./DCAM710/API",
+    ]
+  }
